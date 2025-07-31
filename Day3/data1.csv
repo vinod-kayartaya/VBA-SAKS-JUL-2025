@@ -1,0 +1,5 @@
+Order_ID,Customer_Name,Product_Category,Product_Name,Size,Color,Quantity,Unit_Price,Total_Amount,Order_Date,Sales_Rep
+ORD001,Kevin Liu,Dresses,Evening Gown,S,Yellow,1,29.26,29.26,2024-03-04,Tom Richards
+ORD002,David Lee,Shoes,Sneakers,8,Tan,1,45.1,45.1,2024-01-21,Karen Jones
+ORD003,Aarav Mehta,Dresses,Wrap Dress,XL,Tan,3,65.86,197.58,2024-02-12,Tom Richards
+ORD004,Raj Verma,Dresses,Summer Dress,XL,Purple,1,61.01,61.01,2024-04-02,Alice Smith

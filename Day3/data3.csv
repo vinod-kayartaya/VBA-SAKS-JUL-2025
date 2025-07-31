@@ -1,0 +1,4 @@
+Order_ID,Customer_Name,Product_Category,Product_Name,Size,Color,Quantity,Unit_Price,Total_Amount,Order_Date,Sales_Rep
+ORD011,Mike Chen,Dresses,Wrap Dress,XL,White,1,74.45,74.45,2024-04-24,Alice Smith
+ORD012,Raj Verma,Dresses,Wrap Dress,XL,Pink,1,69.89,69.89,2024-01-04,Tom Richards
+ORD013,Emma White,Accessories,Necklace,S,Green,2,75.71,151.42,2024-01-06,Karen Jones
